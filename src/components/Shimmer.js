@@ -1,27 +1,3 @@
-// const Shimmer = ()=>{
-//     return(
-//         <>
-//         <div className="flex flex-wrap items-center justify-center mt-4">
-//             {Array(15).fill("").map((e,index) => <div key={index} className="shimmer-card"></div>)}
-//         </div>
-//         </>
-//     )
-// }
-// export default Shimmer;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 const Shimmer = () => {
     return (
